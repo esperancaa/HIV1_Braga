@@ -3,7 +3,7 @@
 This repository contains the code, methodology, and structure for the research project carried out as part of the Biochemistry Bachelor's degree internship, titled “Molecular Epidemiological Characterization of HIV in the Portuguese Population.”
 
 ## About the Project
-###The main goal of this project was to characterize HIV-1 subtypes and identify active transmission clusters in the Minho region, focusing on data collected from patients at Hospital de Braga. Through phylogenetic analysis and the detection of resistance mutations, this study contributes to a better understanding of the local HIV epidemic and its evolution.
+The main goal of this project was to characterize HIV-1 subtypes and identify active transmission clusters in the Minho region, focusing on data collected from patients at Hospital de Braga. Through phylogenetic analysis and the detection of resistance mutations, this study contributes to a better understanding of the local HIV epidemic and its evolution.
 
 ## Methodology
 Analysis of 131 HIV-1 sequences.
